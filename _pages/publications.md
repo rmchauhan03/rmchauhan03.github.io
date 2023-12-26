@@ -11,7 +11,7 @@ on Stream Data](http://rmchauhan03.github.io/files/main.pdf)
 <br> <i>In review at ICML '24</i>
 
 ---
-[Extremal Sets of Perfect Matchings in K~2n~]
+Extremal Sets of Perfect Matchings in K~2n~
 <br> Finn Southerland, **Rohan Chauhan**, and Michael E. Orrison, 
 <br> <i>Working Manuscript</i>
 
