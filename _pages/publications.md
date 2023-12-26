@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Statistical Inference in Latent Convex Problems
+on Stream Data](http://rmchauhan03.github.io/files/main.pdf)
+<br> **Rohan Chauhan**, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Michael I. Jordan
+<br> <i>In review at ICML '24</i>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
