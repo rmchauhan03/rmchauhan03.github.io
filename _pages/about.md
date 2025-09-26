@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a undergraduate student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Manolis Vlatakis](http://www.cs.columbia.edu/~emvlatakis/index.html).  
+I am a second-year PhD student at the Department of Computer Science at the University of California, Irvine, where I am fortunate to be advised by Prof. [Ioannis Panageas](https://panageas.github.io/) with research focusing on statistical learning theory and its intersections with statistical physics and developing algorithms for network-dependent data. Prior to this, I obtained BA degrees in the Department of Mathematics and Computer Science at the University of California, Berkeley, where I was fortunate to be advised by [Manolis Vlatakis]. 
 
-My research interests broadly lie in <b> extending stochastic optimization into non-convex regines</b>. More specifically, I'm interested in <i>developing theory to understand, improve, and simplify empirical optimization methodology</i>. 
+Research Interests: Statistical Learning Theory, Spin Glasses, and Inference for Stochastic Optimization Algorithms, Monte Carlo Markov Chains.
+
+
+
+
 
 
 
