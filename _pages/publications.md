@@ -10,7 +10,7 @@ author_profile: true
 <br> <i>(arxiv)</i>
 
 
-[Inference from Dependent Streams: Gradient Descent in Time Series]
+Inference from Dependent Streams: Gradient Descent in Time Series
 <br> **Rohan Chauhan** and Emmanouil-Vasileios Vlatakis-Gkaragkounis
 <br> <i>(Preprint Coming Soon)</i>
 
