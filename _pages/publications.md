@@ -16,7 +16,7 @@ author_profile: true
 ---
 
 [Statistical Inference in Latent Convex Problems
-on Stream Data](https://openreview.net/pdf?id=t4XGjxE4s7))
+on Stream Data](https://openreview.net/pdf?id=t4XGjxE4s7)
 <br> **Rohan Chauhan**, Emmanouil-Vasileios Vlatakis-Gkaragkounis, and Michael I. Jordan
 <br> <i>OPT '24 @ Neurips '24</i>
 
