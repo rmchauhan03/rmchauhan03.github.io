@@ -14,6 +14,7 @@ Research Interests: Statistical Learning Theory, Spin Glasses, and Inference for
 ## News 
 * New [pre-print](https://arxiv.org/abs/2601.20180) about the complexity of performative prediction now on arXiv! 
 * My work with Ioannis Panageas on learning Ising models under hard-constraints was accepted in ICLR '26. See you in Rio!
+* I will be visiting the Archimedes Research Unit in Athens for two months as a student researcher
 
 
 
