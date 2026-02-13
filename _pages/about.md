@@ -12,6 +12,11 @@ I am a second-year PhD student at the Department of Computer Science at the Univ
 
 Research Interests: Statistical Learning Theory, Spin Glasses, and Inference for Stochastic Optimization Algorithms, Monte Carlo Markov Chains.
 
+## News 
+> New [pre-print](https://arxiv.org/abs/2601.20180) about the complexity of performative prediction now on arXiv! 
+> My work with Ioannis Panageas on learning Ising models under hard-constraints was accepted in ICLR '26. See you in Rio! 
+
+
 
 
 
