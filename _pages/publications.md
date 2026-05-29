@@ -7,7 +7,7 @@ author_profile: true
 
 [On the Computational Complexity of Performative Prediction](https://arxiv.org/pdf/2601.20180)
 <br> Ioannis Anagnostides, **Rohan Chauhan**, Ioannis Panageas, Tuomas Sandholm, Jingming Yan
-<br> <i>(arxiv)</i>
+<br> <i>ICML '26</i>
 
 [Learning Ising Models Under Hard Constraints with One Sample](https://arxiv.org/pdf/2509.20993)
 <br> **Rohan Chauhan** and Ioannis Panageas, 
